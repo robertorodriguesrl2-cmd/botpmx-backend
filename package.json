@@ -1,0 +1,12 @@
+{
+  "name": "botpmx-backend",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0"
+  }
+}
